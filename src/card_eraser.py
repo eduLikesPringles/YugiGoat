@@ -1,0 +1,1 @@
+""" este fichero se usará para borrar cartas específicas de un card set o para borrar el set entero de un jugador"""
